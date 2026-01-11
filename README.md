@@ -1,6 +1,6 @@
 <h1 align="center"><b> 🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟ 2.0</b></h1>
 
-<p align="center"><img src="https://telegra.ph/file/fd8a6715f04182086b49e.jpg" alt="Badhacker98"></p>
+<p align="center"><img src="https://telegra.ph/file/fd8a6715f04182086b49e.jpg" alt="PbxBad"></p>
 
 <h2 align="center">😈 Telegram Bot on Steroids!</h3>
 
@@ -11,11 +11,11 @@
 
 ---
 
-![GitLab forks](https://img.shields.io/gitlab/forks/Badhacker98/PBX_2.0?style=social)
-![GitLab Repo stars](https://img.shields.io/gitlab/stars/Badhacker98/PBX_2.0?style=social)
+![Github forks](https://img.shields.io/github/forks/PbxBad/Pbx2.0?style=social)
+![Github Repo stars](https://img.shields.io/github/stars/PbxBad/Pbx2.0?style=social)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitLab license](https://img.shields.io/gitlab/license/Badhacker98/PBX_2.0?&style=social&logo=gitlab)
+![Github license](https://img.shields.io/github/license/PbxBad/Pbx2.0?&style=social&logo=github)
 
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_THE_BAD_BOT_ll)
@@ -30,7 +30,7 @@
 Follow these 4 straightforward steps to deploy PbxBot on Heroku:
 
 1. **Fork & Star this Repo:**
-    > Begin by [forking](https://gitlab.com/Badhacker98/PBX_2.0/-/forks/new) and [starring](https://gitlab.com/Badhacker98/PBX_2.0) this repository on GitLab.
+    > Begin by [forking](https://github.com/PbxBad/Pbx2.0/fork) and [starring](https://github.com/PbxBad/Pbx2.0) this repository on Github.
 
 2. **Heroku Account Login:**
    > Ensure you are logged into your [Heroku account](https://dashboard.heroku.com) before proceeding.
@@ -51,7 +51,7 @@ That's it! You've successfully deployed Pbx  on Heroku. Now scale dynos and star
 
 ## Deploy To Render ⚠️ Deploy On EU Server
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://gitlab.com/Badhacker98/PBX_2.0)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/PbxBad/Pbx2.0)
 
 ---
 
@@ -69,7 +69,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
     sudo apt install --no-install-recommends -y python3 python3-dev python3-pip python3-virtualenv git mediainfo nano ffmpeg unzip tmux
     ```
 
-3. **Clone GitLab repository:**
+3. **Clone Github repository:**
    ```bash
    git clone https://github.com/PbxBad/PbxPlugin && cd PbxPlugin
    ```
@@ -130,11 +130,11 @@ That's it! You've successfully deployed Pbxbot 2.0 on a Linux VPS in 6 easy step
 
 # License
 
-This project is licensed under the [MIT License](https://gitlab.com/Badhacker98/PBX_2.0/-/blob/main/LICENSE) —  
+This project is licensed under the [MIT License](https://github.com/PbxBad/Pbx2.0/-/blob/main/LICENSE) —  
 Feel free to use, modify, and share it with credit. ❤️
 
 ---
 
 <h2 align="center">
-  Made with ❤️ by <a href="https://gitlab.com/Badhacker98">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡</a>
+  Made with ❤️ by <a href="https://github.com/PbxBad">🕊️⃝‌ʙᴀᴅ ❤️ᥫ᭡</a>
 </h2>
