@@ -71,7 +71,7 @@ Pbxbot 2.0 can be deployed on any Linux VPS and terminal.
 
 3. **Clone GitLab repository:**
    ```bash
-   git clone https://gitlab.com/Badhacker98/PbxPlugin && cd PbxPlugin
+   git clone https://github.com/PbxBad/PbxPlugin && cd PbxPlugin
    ```
 
 4. **Edit Config Variables:**
